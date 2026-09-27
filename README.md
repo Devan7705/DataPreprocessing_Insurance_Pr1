@@ -556,7 +556,7 @@ That distinction is important: preprocessing prepares data for machine learning,
 **Devan Patel**
 
 🎓 BSc Information Technology Student  
-💻 Interested in Data Analytics, Machine Learning & Software Development
+💻 Interested in Data Analytics, Machine Learning 
 
 ---
 
